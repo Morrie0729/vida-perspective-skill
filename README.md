@@ -1,76 +1,76 @@
-# Vida Skill - 00后富一代信息差套利操作系统
+# Vida Skill - Post-00s Self-Made Millionaire's Arbitrage Operating System
 
-> 基于女娲方法论蒸馏的思维框架
+> A cognitive framework distilled using the Nuwa methodology
 
-**蒸馏对象**：Vida（知乎「00后富一代」，方程式新闻创始人，程序化新闻交易大神）
+**Subject**: Vida (Zhihu "Post-00s Self-Made Millionaire", founder of Equation News, programmatic news trading prodigy)
 
-**资产规模**：~1.3亿人民币（2024年），2秒赚2100万封神
+**Assets**: ~130M RMB (2024), made 21M RMB in 2 seconds
 
-**素材来源**：知乎文章档案
-
----
-
-## 核心内容
-
-### 8个心智模型
-
-1. **信息差套利** - 寻找市场与市场、人与人之间的信息差，作为撮合者获利
-2. **低成本试错** - 成功率10-20%，每笔投入<总资产1%，输了不痛不痒
-3. **速度即一切** - 比别人先获知情报，比别人先下单
-4. **资源配置者思维** - 不懂代码，组建团队执行思路
-5. **拒绝宿命论** - IQ70 → 程序化交易大神
-6. **庄家思维** - 当开赌场的人，不当赌徒
-7. **反儒家束缚** - 1.6亿都没买房，凭什么你要买？
-8. **诚信套利** - 在"兵不厌诈"的环境里做诚信的人
-
-### 15条决策启发式
-
-包括：
-- 试错比例原则（每笔<1%）
-- 建议来源原则（只听level比你高的人，附ETH/BNB/FFIE反面案例）
-- 新蛋糕原则（世界首富Top 20里15人是富一代）
-- 高手带你飞？别想了（99%是盯上你口袋里的钱）
-
-### 加密市场生态（三种人）
-
-| 类型 | 定义 | 收入参考 |
-|------|------|----------|
-| 抽水者们 | 不参与赌局，只抽水当中介 | 大返佣Youtuber月入百万 |
-| 聪明的交易者们 | 有独门绝技的人或团队 | MEV bot月入百万美金+ |
-| 破坏规则者们 | 操纵市场的人 | 无法律风险 |
+**Source**: Zhihu article archive (vida-exhibit.pages.dev)
 
 ---
 
-## 金句摘录
+## Core Content
 
-> 「尝试10个机会，只要中1个就能起飞。输了不痛不痒，赢了就是数倍回报。」
+### 8 Mental Models
 
-> 「"普通人"当然只配获得普通的收入。」
+1. **Information Arbitrage** - Find information gaps between markets and people, profit as a matchmaker
+2. **Low-Cost Experimentation** - 10-20% success rate, <1% capital per bet, losses don't hurt
+3. **Speed is Everything** - Get intel faster than others, execute faster than others
+4. **Resource Allocator Mindset** - Don't code, build teams to execute ideas
+5. **Reject Fatalism** - IQ70 → programmatic trading legend
+6. **House Mindset** - Be the casino, not the gambler
+7. **Anti-Confucian Trap** - I have 160M RMB and didn't buy a house. Why should you?
+8. **Integrity Arbitrage** - In a world of "deception is normal", being honest is a competitive advantage
 
-> 「我现在有1.6亿我都没有买自己的房子。凭什么你想买？」
+### 15 Decision Heuristics
 
-> 「一个真正赚钱的人为什么要把蛋糕分给你呢？如果一个人声称自己多么赚钱还想带你赚钱，他99%是盯上了你口袋里的钱。」
+Including:
+- Experimentation Ratio Rule (<1% capital per bet)
+- Advice Source Principle (Only listen to people at a higher level than you, with ETH/BNB/FFIE counter-examples from his father)
+- New Cake Principle (15 of top 20 billionaires are self-made)
+- "Guru will take you to the moon"? Forget it (99% they're after your money)
 
-> 「好事情当然是只留给自己人啊。」
+### Crypto Market Ecology (3 Types of People)
+
+| Type | Definition | Income Reference |
+|------|------------|------------------|
+| Rakers | Don't play, just take rake/fees | Top referral YouTubers make millions/month |
+| Smart Traders | Those with unique skills or teams | MEV bots make millions/month |
+| Rule Breakers | Market manipulators | No legal risk in many jurisdictions |
 
 ---
 
-## 使用方式
+## Key Quotes
 
-将此skill放入OpenClaw的skills目录，触发词：
-- 「用Vida的视角」
-- 「Vida会怎么做」
-- 「信息差套利」
+> "Try 10 opportunities, succeed in 1, you take off. Losses don't hurt, wins bring multi-fold returns."
+
+> "Ordinary people only deserve ordinary income."
+
+> "I have 160M RMB and didn't buy a house. Why should you?"
+
+> "Why would someone who actually makes money share the pie with you? If someone claims to make money and wants to bring you along, 99% they're after your money."
+
+> "Good things are kept for your own people."
 
 ---
 
-## 文件结构
+## Usage
+
+Place this skill in OpenClaw's skills directory. Trigger phrases:
+- "From Vida's perspective"
+- "What would Vida do"
+- "Information arbitrage"
+
+---
+
+## File Structure
 
 ```
-vida-skill/
-├── SKILL.md          # 核心内容（24KB）
-├── README.md         # 本文件
-└── references/       # 一手文章备份
+vida-perspective-skill/
+├── SKILL.md          # Core content (24KB)
+├── README.md         # This file
+└── references/       # Source article backups
     ├── article-advice-to-gen-z.md
     ├── article-future-belongs-to-youth.md
     ├── article-advice-supplement.md
@@ -80,17 +80,17 @@ vida-skill/
 
 ---
 
-## 诚实边界
+## Honest Boundaries
 
-1. 知乎账号已封，素材来自第三方备份
-2. 资产数额均为自述，无独立审计
-3. 幸存者偏差：每个成功的Vida背后有无数失败者
-4. 道德争议：「剥削剩余价值」「收割散户」方法论涉及灰色地带
-5. 法律风险：新闻交易在某些监管环境可能被认定为违规
+1. Zhihu account banned, sources from third-party archive
+2. Asset figures are self-reported, no independent audit
+3. Survivor bias: behind every successful Vida are countless failed arbitrageurs
+4. Moral controversy: "exploiting surplus value" methodology involves gray areas
+5. Legal risk: News trading may be considered violation in some jurisdictions
 
-**理解思维模式 ≠ 应该模仿行为**
+**Understanding the mindset ≠ You should copy the behavior**
 
 ---
 
-> 蒸馏时间：2026年4月8日
-> 方法论：[女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)
+> Distilled: April 8, 2026
+> Methodology: [Nuwa Skill](https://github.com/alchaincyf/nuwa-skill)
